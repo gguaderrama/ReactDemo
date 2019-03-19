@@ -1,6 +1,6 @@
-import React from 'react'
+import React, {Component} from 'react'
 
-class Alumnos extends React.Component {
+class Alumnos extends Component {
     render(){
         return(
             <div>
@@ -13,5 +13,4 @@ class Alumnos extends React.Component {
         )
     }
 }
-
 export default Alumnos 
