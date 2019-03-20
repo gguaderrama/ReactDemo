@@ -10,7 +10,7 @@ module.exports = {
   },
   devServer: {
     publicPath: "/",
-    contentBase: "./src",
+      contentBase: "./",
     port: 9000
   },
   module: {

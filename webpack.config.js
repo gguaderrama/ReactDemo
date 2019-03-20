@@ -27,7 +27,7 @@ module.exports = (env) => {
     devServer: {
       port: 9000,
       publicPath: "/",
-      contentBase: "./src",
+      contentBase: "./",
       hot: true,
       port: 9000
     },
